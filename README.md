@@ -1,29 +1,47 @@
-# GDP and Crime Correlation Dashboard
+# 📈 GDP and Crime Correlation Dashboard
 
-Interactive dashboard analyzing the relationship between GDP (Gross Domestic Product) and criminal occurrences across Brazilian municipalities.
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-Streamlit-red.svg" />
+  <img src="https://img.shields.io/badge/Data-Pandas-blue.svg" />
+  <img src="https://img.shields.io/badge/Visualization-Plotly-lightgrey.svg" />
+  <img src="https://img.shields.io/badge/Python-3.10+-yellow.svg" />
+  <img src="https://img.shields.io/badge/Status-Live%20App-brightgreen.svg" />
+</p>
 
-🔗 **[Live Dashboard](https://dash-pib-ocorrencias.streamlit.app/)**
+An interactive dashboard that analyzes the relationship between **GDP (Gross Domestic Product)** and **criminal occurrences** across Brazilian municipalities.
 
-**Language Note:** Dashboard interface is in Portuguese (PT-BR) for Brazilian researchers and policymakers.
+🔗 **Live Dashboard:** [https://dash-pib-ocorrencias.streamlit.app/](https://dash-pib-ocorrencias.streamlit.app/)
 
-## 📊 About
+> **Note:** The interface is in **Portuguese (PT-BR)**, targeting Brazilian researchers and policymakers.
 
-Cross-analysis dashboard exploring correlations between economic indicators (GDP) and crime rates, providing insights into socioeconomic patterns and public safety trends.
+---
 
-## 🛠️ Technologies
+## 📊 Overview
 
-- Python
-- Streamlit
-- Pandas
-- Plotly
+A cross-analysis tool for exploring potential correlations between economic indicators (GDP) and crime rates.
+The dashboard enables quick visual insights into socioeconomic patterns, public safety trends, and comparative behaviors across municipalities.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Python**
+* **Streamlit**
+* **Pandas**
+* **Plotly**
+
+---
 
 ## 🎯 Features
 
-- GDP vs. crime rate visualization
-- Municipal-level data comparison
-- Interactive filtering and exploration
-- Trend analysis over time
+* Visual comparison of **GDP vs. crime rates**
+* Municipality-level exploration
+* Interactive filters for deeper analysis
+* Simple trend inspection over time
+
+---
 
 ## 🚀 Access
 
-Visit the live dashboard: [dash-pib-ocorrencias.streamlit.app](https://dash-pib-ocorrencias.streamlit.app/)
+Launch the live dashboard here:
+👉 [https://dash-pib-ocorrencias.streamlit.app/](https://dash-pib-ocorrencias.streamlit.app/)
