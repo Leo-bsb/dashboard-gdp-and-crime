@@ -10,13 +10,7 @@ import os
 from data_ingestion import load_data
 from data_processing import prepare_data_for_modeling
 
-
-st.write("CWD:", os.getcwd())
-st.write("Arquivos no CWD:", os.listdir())
-st.write("Arquivos no diretório do script:", os.listdir(os.path.dirname(__file__)))
-
-
-'''# Configuração da página
+# Configuração da página
 st.set_page_config(
     page_title="Análise de Criminalidade - RIDE/DF",
     page_icon="📊",
@@ -675,4 +669,4 @@ desenvolvimento econômico e criminalidade na RIDE/DF.
 **Dados:** DataIESB (SINESP, PIB Municipal, Censo 2022)
 
 **Tecnologias:** Python, Streamlit, Scikit-learn, Plotly
-""")'''
+""")
